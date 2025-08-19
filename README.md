@@ -1,7 +1,7 @@
 # Exercícios em Python
 
 Este repositório reúne **exercícios de lógica de programação e prática em Python**, resolvidos de forma pessoal e independente de cursos formais.  
-O objetivo é treinar **resolução de problemas, raciocínio lógico, manipulação de strings, listas, números e algoritmos básicos**, através de pequenos desafios frequentes.
+O objetivo é treinar **resolução de problemas, raciocínio lógico, manipulação de strings, listas, loops, números e algoritmos básicos**, através de pequenos desafios frequentes.
 
 ---
 
