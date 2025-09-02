@@ -17,7 +17,7 @@ O objetivo é treinar **resolução de problemas, raciocínio lógico, manipula�
 - **strings/** → Exercícios de manipulação de textos.  
 - **listas/** → Operações, buscas e filtragem em listas.  
 - **matematica/** → Problemas envolvendo cálculos, números primos, pares, ímpares etc.  
-- **logica/** → Desafios gerais de raciocínio lógico.  
+- **logica/** → Desafios gerais de raciocínio lógico.
 
 > *Obs: A estrutura será criada à medida que os exercícios forem adicionados.*
 
