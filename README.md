@@ -6,7 +6,7 @@ O objetivo é treinar **resolução de problemas, raciocínio lógico, manipula�
 ---
 
 ## 🎯 Objetivo
-- Praticar Python no dia a dia com exercícios de diversos níveis.  
+- Praticar Python no dia a dia com exercícios de diversos níveis.
 - Fortalecer o raciocínio lógico e a capacidade de resolver problemas.  
 - Manter consistência de estudo e evolução contínua.  
 - Contribuir para um portfólio público de prática em programação.
