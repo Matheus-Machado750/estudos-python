@@ -16,8 +16,8 @@ O objetivo é treinar **resolução de problemas, raciocínio lógico, manipula�
 ## 📂 Estrutura (planejada)
 - **strings/** → Exercícios de manipulação de textos.  
 - **listas/** → Operações, buscas e filtragem em listas.  
-- **matematica/** → Problemas envolvendo cálculos, números primos, pares, ímpares etc.  
-- **logica/** → Desafios gerais de raciocínio lógico.
+- **matemática/** → Problemas envolvendo cálculos, números primos, pares, ímpares etc.  
+- **lógica/** → Desafios gerais de raciocínio lógico.
 
 > *Obs: A estrutura será criada à medida que os exercícios forem adicionados.*
 
@@ -26,7 +26,7 @@ O objetivo é treinar **resolução de problemas, raciocínio lógico, manipula�
 
 ## 📈 Contribuição Pessoal
 Este repositório é de uso pessoal, focado no meu aprendizado contínuo. 
-Futuramente, ele poderá servir de base para projetos maiores ou entrevistas técnicas. 
+Futuramente, ele poderá servir de base para projetos maiores. 
 
 ---
 
