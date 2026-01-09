@@ -19,7 +19,7 @@ O objetivo é treinar **resolução de problemas, raciocínio lógico, manipula�
 - **matemática/** → Problemas envolvendo cálculos, números primos, pares, ímpares etc.  
 - **lógica/** → Desafios gerais de raciocínio lógico.
 
-> *Obs: A estrutura será criada à medida que os exercícios forem adicionados.*
+> *Obs: A estrutura será criada à medida que mais exercícios forem adicionados.*
 
 ---
 
