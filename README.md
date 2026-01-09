@@ -21,7 +21,6 @@ O objetivo é treinar **resolução de problemas, raciocínio lógico, manipula�
 
 > *Obs: A estrutura será criada à medida que os exercícios forem adicionados.*
 
-
 ---
 
 ## 📈 Contribuição Pessoal
