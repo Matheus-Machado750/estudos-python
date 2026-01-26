@@ -25,7 +25,7 @@ O objetivo é treinar **resolução de problemas, raciocínio lógico, manipula�
 
 ## 📈 Contribuição Pessoal
 Este repositório é de uso pessoal, focado no meu aprendizado contínuo. 
-Futuramente, ele poderá servir de base para projetos maiores. 
+Futuramente, ele poderá servir de base para projetos maiores.
 
 ---
 
