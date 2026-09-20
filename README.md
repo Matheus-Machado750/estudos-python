@@ -1,11 +1,10 @@
 # Estudos em Python
 
-Este repositório reúne **exercícios de lógica de programação e prática em Python**, resolvidos de forma pessoal e independente de cursos formais.  
-O objetivo é treinar **resolução de problemas, raciocínio lógico, manipulação de strings, listas, loops, números e algoritmos básicos**, através de pequenos desafios frequentes.
+Este repositório reúne **exercícios de lógica de programação e prática em Python**, resolvidos de forma pessoal e independente de cursos formais. O objetivo é treinar **resolução de problemas, raciocínio lógico, manipulação de strings, listas, loops, números e algoritmos básicos**, através de pequenos desafios frequentes.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 - Praticar Python no dia a dia com exercícios de diversos níveis.
 - Fortalecer o raciocínio lógico e a capacidade de resolver problemas.  
 - Manter consistência de estudo e evolução contínua.  
@@ -13,7 +12,7 @@ O objetivo é treinar **resolução de problemas, raciocínio lógico, manipula�
 
 ---
 
-## 📂 Estrutura (planejada)
+## Estrutura (planejada)
 - **strings/** → Exercícios de manipulação de textos.  
 - **listas/** → Operações, buscas e filtragem em listas.  
 - **matemática/** → Problemas envolvendo cálculos, números primos, pares, ímpares etc.  
